@@ -6,9 +6,6 @@
   "bin": {
     "is-macho": "index.js"
   },
-  "scripts": {
-    "test": "npm run test"
-  },
   "keywords": [
     "macho",
     "apple"
